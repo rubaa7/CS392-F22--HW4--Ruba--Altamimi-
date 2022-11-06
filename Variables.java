@@ -6,14 +6,15 @@ public class Variables {
         
 		int x;
 		int y;
+	    int add;
         
         x = 10;
         y = 5;
         
         //2147483647
         //-2147483648
-        
-        System.out.println(x+y);
+        add= x+y;
+        System.out.println(add);
 		System.out.println(x-y);
 		System.out.println(x*y);
 		System.out.println(x/y);
