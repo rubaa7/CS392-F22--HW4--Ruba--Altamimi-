@@ -1,2 +1,4 @@
+feature1
 feature 1
+ main
 feature 1 with 1 bug
